@@ -1,9 +1,9 @@
 {
   "versi_terbaru": "1.0.0.2",
-  "tanggal_rilis": "2026-08-28 19:55:57",
+  "tanggal_rilis": "2026-08-29 12:41:53",
   "url_unduh": "https://github.com/salman-ir/Database-omni-data/releases/download/2.0.0.2/Setup_Aplikasi_Database_v1.0.0.2.exe",
-  "sha256": "0e0727372313e1ab2befc8fc58adece944b13a669c1935ddc3310665f3c48b03",
-  "ukuran_byte": 187774634,
+  "sha256": "854c8117711282b728b812ec5eaa90ea90166996808f45024ba897b4dcffb183",
+  "ukuran_byte": 187804199,
   "wajib_update": false,
   "catatan_rilis": "Perbaikan stabilitas dan penambahan fitur pemeriksaan data."
 }
